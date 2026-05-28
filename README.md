@@ -144,7 +144,13 @@ The system was deployed inside an isolated VirtualBox-based virtualized environm
 
 ## 📷 Project Screenshots
 
-> Add dashboard screenshots, architecture diagrams, and intrusion analytics images here.
+<img width="984" height="468" alt="image" src="https://github.com/user-attachments/assets/6952b29d-6465-4f7e-a6bc-cf2454625cd2" />
+<img width="984" height="469" alt="image" src="https://github.com/user-attachments/assets/8c3e72ce-abfb-4c02-bca8-911f6c41184f" />
+<img width="981" height="572" alt="image" src="https://github.com/user-attachments/assets/26dcc05a-4edc-42ed-97e2-530d65f710cb" />
+<img width="985" height="689" alt="image" src="https://github.com/user-attachments/assets/9f493aac-9571-41c1-ba51-30bcaecfbec5" />
+<img width="986" height="789" alt="image" src="https://github.com/user-attachments/assets/32437cd6-c43f-4899-af36-9c91e4340ac1" />
+<img width="985" height="604" alt="image" src="https://github.com/user-attachments/assets/11e498b9-0766-4b94-9a12-2ca70918296c" />
+
 
 ---
 
@@ -156,11 +162,5 @@ This project was developed as part of the B.Tech Information Technology major pr
 
 ## 👨‍💻 Authors
 
-* Ishaan Liam
-* Project Team Members
+* Ishaan Samal
 
----
-
-## 📄 License
-
-This project is intended for academic and educational purposes only.
